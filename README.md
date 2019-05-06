@@ -1,2 +1,2 @@
-# Customer_Churn_Analysis_with_ANN
+# Customer Churn Analysis with ANN
 I build and validate an Artificial Neural Networks (ANN) model to predicts whether any individual customer will leave the bank or stay. Besides, the model also ranks all the customers of the bank, based on their probability of leaving. The data set used to build and validate the model includes information such as customer id, credit score, gender, age, tenure, balance, if the customer is active, has a credit card, etc. as well as a variable that indicates whether the customer left the bank or not. This program is written in Python. 
